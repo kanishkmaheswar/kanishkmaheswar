@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Kanishk  
 
-<!--
-**kanishkmaheswar/kanishkmaheswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  What I Do
+- Design **scalable AI & software solutions**  
+- Build **machine learning models** that solve real-world problems  
+- Create **full-stack applications** with pixel-perfect UI  
+- Explore **emerging tech**, from cloud platforms to embedded systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack
+
+**Languages & Frameworks:** Python, JavaScript, TypeScript, React, Node.js  
+**AI/ML:** TensorFlow, PyTorch, OpenCV, scikit-learn  
+**Databases:** MySQL, PostgreSQL, MongoDB, Supabase  
+**Tools & Platforms:** Git, Docker, AWS  
+
+---
+
+###  Fun Fact
+I’m obsessed with **pixel-perfect designs** and building **tech that actually matters**.  
